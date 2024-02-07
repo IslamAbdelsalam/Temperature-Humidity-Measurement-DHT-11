@@ -48,15 +48,11 @@ Table of content
 
 **Connect Lcd to Arduino**
 
-![A circuit board with wires connected to it
-
-Description automatically generated](Aspose.Words.b9ce14de-cf2b-40cc-803c-a95416bb3b7f.001.jpeg)
+![A circuit board with wires connected to it Description automatically generated](lcd_diagram.png)
 
 **Connect DHT sensor To Arduino**
 
-![A circuit board with wires connected to it
-
-Description automatically generated](Aspose.Words.b9ce14de-cf2b-40cc-803c-a95416bb3b7f.002.png)
+![A circuit board with wires connected to it Description automatically generated](circuit_diagram.png)
 
 
 
@@ -68,15 +64,7 @@ Description automatically generated](Aspose.Words.b9ce14de-cf2b-40cc-803c-a95416
 
 **Project Code**
 
-![A screenshot of a computer program
-
-Description automatically generated](Aspose.Words.b9ce14de-cf2b-40cc-803c-a95416bb3b7f.003.png)
-
-
-
-
-
-
+![A screenshot of a computer program Description automatically generated](code.png)
 
 
 
