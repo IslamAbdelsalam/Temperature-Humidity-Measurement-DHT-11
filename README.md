@@ -82,16 +82,16 @@ Table of content
 
 **Resources**
 
-1. [**Project Code**](https://ideone.com/RigH28)
 1. [**Project Simulation**](https://wokwi.com/projects/389027163280610305)
-1. [**Sensor manual](https://www.tme.eu/Document/7a4fd48d400b8c4c8309ef1e2b13cdd4/MR003-005-1.pdf)**
+2. [**Sensor manual**](https://www.tme.eu/Document/7a4fd48d400b8c4c8309ef1e2b13cdd4/MR003-005-1.pdf)
 
 
 
 
 
 
-Thanks
+<p align="center" ><b>Thanks</b></p>
+
 
 
 
